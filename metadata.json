@@ -1,0 +1,6 @@
+{
+  "name": "HydroQuant DS — SIH Data Science & ML Ecosystem",
+  "description": "End-to-end Smart India Hackathon (SIH24/25) Data Science Ecosystem featuring 520+ multi-basin hydro-meteorological, renewable grid, and geochemical datasets, live client-side ML models (Ridge, GBDT, Random Forest, k-NN, PCA), and interactive mathematical derivations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
